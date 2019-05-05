@@ -1,0 +1,236 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6 (ah-backend-iroquois)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.6" />
+      <homePath value="$USER_HOME$/.conda/envs/ah-backend-iroquois/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.conda/envs/ah-backend-iroquois/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/ah-backend-iroquois/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.conda/envs/ah-backend-iroquois/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1141671358" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/ah-backend-iroquois" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="/usr/local/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/Library/Python/3.7/lib/python/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-1199943126" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (Course Python English)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/Course Python English/.idea/VirtualEnvironment/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Course Python English/.idea/VirtualEnvironment/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/Course Python English/.idea/VirtualEnvironment/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/Course Python English/.idea/VirtualEnvironment/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1666570894" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/Course Python English" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (prosper_investments)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/prosper_investments/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/PycharmProjects/prosper_investments/venv/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/prosper_investments/venv/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.2_2/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/prosper_investments/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1743226960" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/prosper_investments" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7 (android-server)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="$USER_HOME$/PycharmProjects/android-server/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python/3.7.2_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/android-server/venv/lib/python3.7/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/PycharmProjects/android-server/venv/lib/python3.7/site-packages/setuptools-39.1.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/android-server/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/448933187" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/android-server" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="/usr/local/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/local/Cellar/python@2/2.7.15_1/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199944087" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.16 Docker (vc-rest-api:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.16" />
+      <homePath value="docker://vc-rest-api:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/249572967" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/673165940" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/726551399" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/-183260405" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/-613565391" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="vc-rest-api:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/249572967" remote-root="/usr/local/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/673165940" remote-root="/usr/local/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/726551399" remote-root="/usr/local/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/-613565391/-183260405" remote-root="/usr/local/lib/python2.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.7.3 Docker (afl-ug-backend_app:latest)" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.3" />
+      <homePath value="docker://afl-ug-backend_app:latest/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1124382469/249573928" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1124382469/1170049292" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.1/python_stubs/1124382469" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="afl-ug-backend_app:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" RUN_AS_ROOT_VIA_SUDO="false" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1124382469/249573928" remote-root="/usr/local/lib/python3.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2019.1/remote_sources/1124382469/1170049292" remote-root="/usr/local/lib/python3.7/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+  </component>
+</application>

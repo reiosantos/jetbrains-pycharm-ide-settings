@@ -1,0 +1,56 @@
+<application>
+  <component name="libraryTable">
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.3.1_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_maxcdn.bootstrapcdn.com_bootstrap_4.3.1_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="dataTables.bootstrap4" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.18_js_dataTables.bootstrap4.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.18_js_dataTables.bootstrap4.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.4.0" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.4.0.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.4.0.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery.dataTables" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.18_js_jquery.dataTables.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.datatables.net_1.10.18_js_jquery.dataTables.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="R Skeletons">
+      <CLASSES />
+      <SOURCES />
+    </library>
+  </component>
+</application>
