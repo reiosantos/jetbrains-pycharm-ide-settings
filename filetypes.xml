@@ -6,6 +6,7 @@
       <mapping pattern="__ini__" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
+      <mapping ext="toml" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
