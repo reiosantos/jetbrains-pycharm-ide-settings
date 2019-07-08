@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
+      <mapping pattern="projects_" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-rest" type="PLAIN_TEXT" />
       <mapping pattern="__ini__" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile" type="PLAIN_TEXT" />
