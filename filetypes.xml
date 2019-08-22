@@ -12,6 +12,7 @@
       <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="__ini__" type="PLAIN_TEXT" />
       <mapping ext="options" type="PLAIN_TEXT" />
+      <mapping ext="stdout" type="PLAIN_TEXT" />
       <mapping ext="stderr" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
