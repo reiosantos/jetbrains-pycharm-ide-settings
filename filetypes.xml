@@ -4,17 +4,17 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
       <mapping pattern="projects_" type="PLAIN_TEXT" />
+      <mapping pattern="Jenkinsfile-rest" type="PLAIN_TEXT" />
+      <mapping pattern="__ini__" type="PLAIN_TEXT" />
+      <mapping pattern="headless_shell" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
-      <mapping pattern="Jenkinsfile-rest" type="PLAIN_TEXT" />
-      <mapping pattern="headless_shell" type="PLAIN_TEXT" />
-      <mapping pattern=".bash_history" type="PLAIN_TEXT" />
-      <mapping pattern="__ini__" type="PLAIN_TEXT" />
-      <mapping ext="options" type="PLAIN_TEXT" />
       <mapping ext="stdout" type="PLAIN_TEXT" />
-      <mapping ext="stderr" type="PLAIN_TEXT" />
       <mapping ext="st" type="PLAIN_TEXT" />
+      <mapping ext="stderr" type="PLAIN_TEXT" />
+      <mapping ext="options" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
