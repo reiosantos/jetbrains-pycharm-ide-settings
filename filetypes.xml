@@ -9,6 +9,7 @@
       <mapping pattern="projects_" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile-rest" type="PLAIN_TEXT" />
       <mapping pattern="__ini__" type="PLAIN_TEXT" />
+      <mapping pattern=".coveragerc" type="PLAIN_TEXT" />
       <mapping pattern="headless_shell" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".pylintrc" type="PLAIN_TEXT" />
